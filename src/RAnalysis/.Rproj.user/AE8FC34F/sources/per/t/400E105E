@@ -1,0 +1,28 @@
+{
+    "id": "400E105E",
+    "path": "C:/Rohan/MSEF_Internship/src/RAnalysis/DemographicAnalysis.Rmd",
+    "project_path": "DemographicAnalysis.Rmd",
+    "type": "r_markdown",
+    "hash": "2840223958",
+    "contents": "",
+    "dirty": false,
+    "created": 1626187643486.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,122",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1626356917,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1626356917145,
+    "read_only": false,
+    "read_only_alternatives": []
+}
