@@ -1,0 +1,1032 @@
+80000ft	000ft
+a.angulosus	angulosus
+a.domesticus	"achetus, cricket, domesticus"
+a.melifera	"bee, beehives, bees, mellifera, melifera"
+a.pallida	pallida
+a.salina	"artemia, salina"
+a.syriaca	syriaca
+a.thaliana	thaliana
+ability	agility
+absorb	"absorbed, absorbency, absorbing, absorption"
+accelerometer	accelerometers
+access	"accesibility, accessibility, accessible"
+accurate	"accuracy, fidelity, precision"
+acetic	"acetate, ch3cooh"
+acid	"acidification, acidifying, acidity, acidosis, acids"
+acne	"acnes, pimples, pimple, zit"
+acoustic	"acoustical, acoustics, audio, auditory, decibel, noise, noisy, sound"
+action	"acitivity, acting, activated, activation, active, actively, activity, actuator, actuated"
+adapt	"acclimate, acclimation, adaptations, adaptive, adapting"
+add	"adding, additive, additives, append, augmentation, augmented, augmenting, incorporating, supplement, supplementation, supplements"
+address	"addressing, addressed"
+admit	admissions
+adsorb	"adsorbed, adsorption"
+adult	"elderly, mature"
+advance	"advanced, advancements, advancing, advances, ahead, progress, progression, progressing, surge"
+adverse	adversarial
+aerate	aeration
+aerial	airborne
+aerodynamic	aerodynamics
+aerosol	"aerosolized, aerosols, spray"
+age	"aged, aging"
+agent	agents
+aggression	"aggressive, angry, anger, rage, fury"
+agriculture	vs.agricultural
+aiml	"ai, ml, cnn, ann, gan"
+aircraft	"airplane, airplanes"
+alcohol	alcohols
+alert	alerts
+algae	"alga, algal, vs.algae"
+aligner	"aligners, alignment"
+allelopathy	allelopathic
+allergy	allergies
+alternate	"alternating, alternative, alternatives, other"
+aluminum	al
+alzheimer	"alzheimer’s, alzheimers, azheimer, azheimers"
+ameloblast	ameloblasts
+ammonia	"ammonium, nh4"
+among	amidst
+ampicillin	apmicillin
+analgesic	analgesics
+analyze	"analyses, analysis, analyst, analyzation, analyzing, anaylsis, assessing, evaluating, evaluation, examination, examine, examining, investigate, investigating, investigation, investigations"
+anatomy	anatomical
+angle	angles
+answer	"solution, solving"
+antacid	antacids
+antecedent	antecedents
+anti	vs.anti
+antibiotic	"antibacteria, antibacterias, antibiotics, antimicrobial, antimicrobials, antiseptic, bactericidal, bacterial, bacterials"
+antifungal	antifungals
+antioxidant	antioxidants
+aorta	aortic
+apple	apples
+apply	"application, applications, applied, applying"
+aquaponic	"aquaculture, aquacultures, aquaponics, hydroponic, hydroponics"
+aquaponics	vs.aquaponics
+area	areas
+arrange	arrangement
+array	arrays
+arrhythmias	arrthmias
+artery	arteries
+art	"arts, crafts, paintings, "
+article	articles
+artificial	artificially
+artist	artists
+ash	"ashs, ashes"
+asteroid	"asteroid’s, asteroids"
+asthma	asthmatics
+astronomy	astronomical
+asymtote	asymptotics
+athlete	athletes
+atmosphere	atmospheric
+atrium	atrial
+attach	"attachment, attachments, binding, bonding"
+attend	attendance
+attest	attestation
+attract	"attracted, attraction"
+attribute	"aspects, characteristic, characteristics, characterization, characterize, characterizing, feature, features, properties"
+automatic	"automated, automating, automation"
+automobile	"automobiles, car, cars, buses, bus, van, truck, trucks, lorry"
+autonomy	"autonomous, autonomously"
+auxillary	auxiliary
+avoid	"avoidance, circumvention"
+aware	awareness
+b.burgdorferi	"burgdorfer, burgdorferi"
+b.canadensis	branta
+b.mori	"bombyx, mori"
+b.rapa	rapa
+baby	"prenatal, infant, child, offspring"
+bacteria	"bacteria...with, bacterial, bacterias, bacterium, vs.bacteria"
+bacteriophage	bacteriophages
+bad	deleterious
+bake	baking
+balance	balancing
+ball	balls
+balloon	balloons
+bandage	"band, bandages"
+barrier	barriers
+base	based
+basil	basilicum
+bat	batting
+battery	batteries
+beach	beaches
+bean	beans
+beat	beats
+beetle	beetles
+behavior	"behavioral, behaviors, behaviour"
+benchmark	benchmarking
+bend	"bending, bends"
+benefit	"beneficial, advantage, advantageous"
+benthic	"deepsea, abyss"
+berry	berries
+beverage	beverages
+bicycle	bike
+big	"bigger, supermassive, massive, large, huge, enormous, gigantic, giant"
+billion	billions
+biochemistry	biochemical
+bioinformatics	bioinformatical
+biology	"biological, biologically"
+biomarker	biomarkers
+bioreactor	"bioreactors, fermenters"
+biosphere	biosphere.
+biotic	biotics
+bisphenol	bisphenol–a
+bivalve	bivalves
+blade	"bladeless, blades"
+bleach	"bleaching, vs.bleach"
+blind	blinded
+block	"blocks, obstructed"
+bubble	"bubbles, bubbling, fizz"
+blood	bleed
+bloom	"blooming, blooms"
+blow	"blowing, blown"
+blue	blues
+board	boards
+boat	boats
+bone	bones
+both	both.
+bottle	"bottled, bottles"
+brand	brands
+break	"breakage, breaker"
+breed	"bred, pollinate, fertility, courtship, mating, mate, reproduction, reproduce, proliferation, reproduction, reproductive"
+bridge	bridges
+bright	brightening
+brine	brined
+bring	bringing
+brown	browning
+buffer	buffering
+build	"assemblies, building, built, buliding, constructing, construction, create, created, creating, devel, develop, developed, developer, developing, development, developmental, manufacturing, mfg, make, build, manufacture, construct, construction, constructing, building, assembling, assembly, assemble"
+bulk	vs.bulk
+bus	buses
+bust	busters
+butterfly	butterflies
+buy	bought
+c.clypeatus	"clypeatus, coenobita"
+c.elegans	"caenorhabditis, caenorhbditis, elegans"
+c.gatti	gattii
+c.longas	"curcuma, longas"
+c.pyrenoidosa	chlorella
+c4	vs.c4
+cable	cables
+calculate	"calculation, calculator"
+call	calling
+calorie	calories
+cancel	cancellation
+cancer	"cancer., cancers, carcinoma, vs.cancer"
+cap	"capping, caps"
+capture	captive
+carbohydrates	vs.carbohydrates
+carbon	co2
+carbonate	carbonation
+carcass	carcasses
+carcinogen	carcinogens
+carotenoid	carotenoids
+carry	carrying
+cast	casts
+catalyst	"catalysts, catalytic, catalyzation, photocatalyst"
+catch	"catchers, catching"
+category	categorize
+cation	cations
+cause	"blame, causation, caused, causing, reasoning"
+cell	"cell., cells, cellular"
+cellulose	"cellularized, cellulosic"
+cellulosic	vs.cellulosic
+cement	"concrete, concretes"
+cent	cents
+center	centric
+cervix	cervical
+challenge	"problem, crisis, trouble, dilemma"
+change	"alterations, altering, changing, fluctuating, modification, modifications, modified, modifying, convert, conversion, converting, morph, morphing"
+channel	channels
+charge	"charged, charger, charging"
+cheat	cheating
+check	verifying
+cheek	cheeked
+chelate	"chelates, chelators"
+chemical	"chemically, chemicals, chemistry, chemo, vs.chemical"
+child	children
+china	chinese
+chlorine	chloride
+chromatography	"chromatography., chromatography.paper"
+chromosome	"chromosomes, chromatin"
+cigarette	"cigarettes, e_cigarette, e_cigarettes"
+cipher	ciphers
+circle	circular
+circuit	circuits
+classification	multiclassification
+classify	"classification, classifier, classifiers, classifying"
+classroom	class
+clean	"cleaner, cleaners, cleaning, scrub, scrubbers"
+climb	climbing
+clone	cloning
+close	nearby;
+clot	"clotting, coagulation"
+cloth	clothing
+clue	clues
+cluster	clusters
+coast	coastal
+coating	"coated, coatings"
+cockroach	cockroaches
+code	"codes, coding"
+coffee	"caffeine, caffeines, vs.coffee"
+cognition	cognitive
+cold	"cooling, cooled, chill, chilled, cool, freeze"
+collect	"aggregation, collection, gathered, gathering, accumulation, accumulate, collects, collecting, accumulating"
+collide	collisions
+color	"colored, colorful, coloring, colors"
+combine	"combinations, combined"
+commercial	comercially
+common	"commonly, vs.common"
+communication	communications
+community	communities
+commute	commuter
+compare	"comparative, compared, comparing, comparison, comparisons"
+compartment	compartmental
+competition	competitive
+complex	complexity
+compose	"composed, composite, composition, content"
+composite	vs.composite
+compound	"compounds, vs.compound"
+computer	 computers
+compsci	"computersci, computational, computing"
+concentrate	"concentrated, concentrating, concentration, concentrations"
+concept	concepts
+concussion	concussions
+condition	"conditioner, conditions"
+conduct	"conductive, conductivity, officiating, conducting"
+confectioner	confectioners
+conform	conformity
+confuse	"disorientation, confusing, disorient, disoriented, confused, confusion"
+congenic	congenital
+connect	"connection, connectivity"
+conserve	conservation
+consistent	consistency
+consolidate	consolidation
+constrain	constrained
+consume	"consumed, consumer, consumption"
+contibute	contributing
+continuous	continuum
+contract	"contracting, contraction"
+control	"manipulators, manipulation, manipulate, control, controlling, controlled, controls, adjust, adjusting, adjusted, manipulated, controlled, controller, controlling, modulation, regulation, regulatory"
+convolution	convolutional
+cook	"cooked, cooking"
+cooked	vs.cooked
+cooperate	cooperation
+correct	correction
+correlate	"correlates, correlation, correlations, correlative"
+corrode	"corrosion, corrosive, rust"
+cost	"costs, vs.cost"
+counsel	counseling
+count	counting
+country	countries
+cover	covers
+covid19	"19, 19s, coronavirus, covid, covsars2, sars, covid19s, 2019ncov"
+crab	crabs
+crack	"cracked, cracking"
+cricket	crickets
+crispr	"crispr, crispr/cas, crispr/cas9, crispr_cas9, cas, cas9"
+cross	crossing
+crystal	"crystalline, crystals"
+cuff	cuffs
+cup	cups
+curcumin	turmeric
+cure	"cured, curing"
+custom	"customizable, customized"
+cut	excised
+cyanobacteria	cyanbacteria
+cytokine	cytokines
+d.dorotocephala	dorotocephala
+d.magna	"daphnia, magna"
+d.melanogaster	"d.melanogater, drosophila, drosophilae, fruitfly, melanogaster, melanogaster., melanogasters"
+d.plexippus	"danaus, plexippus"
+d.rerio	"danio, rerio, zebrafish"
+d.tigrina	tigrina
+daily	everyday
+damage	"damaged, photodamage"
+danger	"dangerous, hazard, unsafe"
+deal	"coping, dealing"
+death	"apoptosis, deaths, dying, fatal, lethal, fatality, lethality, dead, mortality"
+decision	decisions
+deep	depth
+defense	defenses
+define	defined
+deform	deformable
+defrost	defrosting
+defy	defying
+degrade	"biodegradability, biodegradable, biodegradation, biodegrade, biodegrading, biodegreadable, compost, composting, decay, decaying, decomposition, degeneration, degradation, degreadable, degrading, denature, denaturing, destroy, dissociation, dissolution, erode, eroding, degrabale, degradability, degradable"
+dehydrate	dehydration
+delight	delightful
+deliver	delivery
+demograph	demographic
+dense	density
+depend	"dependency, dependent, depending"
+depict	depiction
+deposit	deposits
+depression	depressive
+deprive	deprivation
+derive	"derivatives, derived"
+desaline	desalination
+describe	descriptor
+design	"designated, designed, designing, designs"
+destroy	"destruction, destructive"
+deter	deterrent
+detergent	detergents
+determine	"determination, determining"
+device	devices
+diabetes	"diabeates, diabetic, diabetics"
+diagnose	"diagnosing, diagnosis, diagnostic"
+diatom	diatoms
+dictionary	dictionaries
+diet	dietary
+difference	"differences, differential, differentially"
+differentiation	distinguish
+diffract	diffractive
+diffuse	diffusion
+digest	"digester, digestible, digestion, digestive"
+dilute	"diluting, dilutions"
+dimension	"dimensional, dimensions"
+dimple	"dimpled, dimples"
+dimpled	vs.dimpled
+direct	"directed, directing, direction, directional"
+dirt	"dirty, filthy"
+disable	disabled
+disadvantage	disadvantaged
+discard	"abandoned, ridding, discards, disposable, dispose, abandon, throwaway, remove, removing, eliminating, removal, remover, removers, removing, eliminate, eliminates, eliminated"
+discrete	"distinct, distinction"
+disease	"ailments, diseased, diseases, disorder, disorders"
+dispense	"dispenser, dispensing, give"
+dissect	dissecting
+dissolve	dissolved
+distance	"distanced, distant"
+distract	"distraction, distractions, distractors"
+distribute	"distributed, distribution"
+diverse	diversity
+divide	"bijections, bijective, dividing, partition, partitions"
+dog	dogs
+dollar	dollars
+dominant	dominance
+dose	dosage
+double	doubly
+drag	dragging
+drink	"drinking, drinks"
+drive	"driven, drivers, driving"
+drone	drones
+drop	droplets
+drug	"drugs, multidrug"
+dry	"dried, drought, droughts, drying"
+duration	"durability, duration, period, durable"
+dust	dusting
+dye	dyes
+dynamic	"dynamically, dynamics"
+e.coli	"coli, escherichia"
+e.fetida	"eisenia, fetida"
+e.huxleyi	huxleyi
+earthquake	earthquakes
+earthworm	earthworms
+easy	easier
+eat	"eaters, eating, foraging, ingestion, feed, feeding, feeds, devour, gorge, devouring, feeder"
+ebola	"ebolavirus, ebov"
+eco	vs.eco
+economic	"economical, economy"
+ecotoxicology	ecotoxicity
+edit	editing
+efficacy	"effectiveness, effectivity, efficacies, efficiencies, efficiency, efficient, effective"
+egg	"gamete, gametes, ovule, ova, oeuf, zygote, ovum, eggs"
+eggshell	eggshells
+electric	"bioelectrically, electrical, electricity, electrified, electrifying, hydroelectric, peizoelectricity, photovoltaic, photovoltaichroma, piezoelectric, piezoelectricity, triboelectric, voltage, voltaic, electrically, vs.electric, electro"
+electrolysis	"electrolyte, electrolytes"
+electrolytes	vs.electrolytes
+electromagnetic	"electromagnetically, electromagnets, emp, vs.electromagnetic"
+electronic	electronics
+elevation	"elevator, levitating, levitation, levitator, lift, microelevation"
+elicit	elicits
+embed	"embedded, embeddings"
+embryo	"embryonic, embryos"
+emission	emissions
+emotion	"emotional, emotions"
+encode	"encoding, encrypt"
+endothelial	endothelialization
+enemy	"foe, foes"
+energy	"power, powered, powering, vs.energy"
+engine	engines
+engineer	"engineered, engineering"
+enrich	enrichments
+ensure	ascertain
+environment	"eco, ecological, ecology, ecosystems, env., enviornment, environment, environmental, environmentally, environments, surroundings, env"
+enzyme	"enzymatic, enzymes"
+epidemic	"outbreak, outbreaks, pandemic"
+epilepsy	epileptic
+equation	equations
+error	"defects, defect, mistake"
+error	"errors, glitches"
+estimate	"estimates, estimating, estimation, measure, measured, measurement, measures, measuring"
+eutrophic	eutrophication
+evolution	"evolutionary, evolving"
+exhale	exhalation
+exoplanet	"exoplanetary, exoplanets"
+expand	"expander, expansion, extending, extension, extensions, extensive"
+experiment	"experimental, experimenting, experiments"
+explore	"exploration, explorer, exploring"
+expose	"exposed, exposure, exposures"
+express	"expressed, expressing, expression"
+extend	prolonged
+extinguish	"extinguishes, extinguishing"
+extract	"extracting, extraction, extracts"
+eye	eyes
+face	"faces, facial"
+factor	factors
+failure	dysfuntion
+fake	phony
+fall	falls
+farm	"agricultural, agriculture, farmed, farming, crops, crop"
+fast	"faster, fastest, quick, quickest, rapid"
+fat	"fats, lipid, lipids"
+fear	scary
+female	"females, women, girl, lady, woman"
+fermentation	fermentations
+fertility	fecundity
+fertilize	"fertilizer, fertilizers, fertilizes"
+fiber	"fibers, microfibers"
+fight	"battle, combat, combating, fighting"
+fill	filling
+film	"biofilm, biofilms, films, filming"
+filter	"biofiltration, filtered, filtering, filters, filtration, purify, purification, purification, purified, purifiers, purify;, purifying, purity, pure"
+finance	financially
+find	"discovered, discovering, discovery, finding, uncover"
+fire	"inferno, burn"
+firefly	fireflies
+fix	"biofixation, fixation, fixing"
+flame	flammability
+float	floating
+flu	influenza
+fly	"flies, flight"
+focus	"focused, focusing"
+fold	folding
+follow	adherence
+food	"diets, feeds, foods, foods."
+force	forces
+form	formation
+fossil	fossils
+free	untethered
+freeze	"freezing, frozen"
+frequency	frequencies
+fresh	freshness
+friend	"friendly, friends"
+fruit	fruits
+fry	"fries, fryer"
+fuel	"biodiesel, biofuel, biofuels, biogas, diesel, fueling, fuels, gasoline"
+full	"complete, comprehensive"
+function	"functional, functionality, functionalized, functions"
+fungicide	"fumigant, antifungal, fungals, fungal"
+fungus	" fungi, mold, myco"
+future	"futures, futuristic"
+game	games
+garden	"gardening, gardens"
+gas	"gassing, gassy"
+gastric	"gastrointestinal, stomach"
+gatorade	vs.gatorade
+gender	sex
+gene	"genes, genetic, genetically, genetics, genomic, genotypes"
+general	"generalizations, generalized, generalizing"
+generate	"cogeneration, generating, generation, generator, generators, produce, produced, producers, produces, producing, product, productio, production, productivity"
+genomic	chemogenomic
+geometry	geometries
+germs	germiest
+get	"acquisition, obtaining"
+give	administration
+glass	glasses
+glow	glowing
+glue	"adhesion, adhesive, adhesives, cohesion, sticky"
+gmo	"gmos, vs.gmo"
+graft	"grafted, grafting, grafts"
+grain	grains
+graph	"graphical, graphs"
+gravity	"gravitropism, microgravity"
+gray	grey
+great	"greater, greatest"
+green	"greener, greening"
+grip	"gripper, gripping"
+group	groups
+grow	"cultivating, cultivation, culture, cultured, growing, grown, growth, growths"
+guide	"guidance, guidelines"
+gun	"firearm, rifle, guns"
+h.crassicornis	"crassicornis, hermissenda"
+h.opalescens	opalescens
+habitat	habitation
+habits	habitual
+hack	hacker
+hand	hands
+handy	handi
+harness	harnessing
+harvest	"harvester, harvesting, harvests"
+health	"healthful, healthy"
+heal	"healing, cure, healer"
+heart	"cardiac, hearts"
+heat	"heated, heater, heating, hot, thermo, warm, warming"
+heavy	heavier
+helmet	helmets
+help	"aid, aide, assist, assistance, assistant, assisted, assisting, helping"
+hepatic	liver
+hepatitis	hepatitisb
+herbs	herbal
+history	historic
+hiv	"aids, hiv/aids, hiv1, hiv2"
+hold	"holds, retaining, retention, stays"
+hole	"apertures, holes"
+home	dwelling
+house	"household, inhome"
+human	"humans, people, person, persons"
+huntington	huntingtons
+hurdle	obstacle
+hurt	"abuse, achilles, assault"
+hydrogel	hydrogels
+hydroponic	hydroponics.
+hydroponics	vs.hydroponics
+hypoxia	hypoxic
+i.galbana	galbana
+i.scapularis	scapularis
+identify	"identification, identifying, identity"
+image	"imagery, images, imaging, pictures, photograph, photography, photographs, photos, picture"
+imitate	imitation
+immune	"immuno, imune, immunity, immunize, vaccine, vaccinate, vaccination"
+impact	"affect, impactful, impacts"
+impaired	impairment
+implicit	implications
+important	"vital, critical, key, matters, essential"
+incident	incidents
+increase	"elevated, increased, increasing"
+incubator	incubators...but
+independent	independently
+indicator	"bioindicators, indicators"
+individual	"individuals, indiviuals"
+induced	inducer
+industrial	industries
+inexpensive	vs.inexpensive
+infect	"coinfection, disinfectant, disinfectants, disinfecting, infected, infection, infections, infectivity, infectious, infecting"
+infinite	infinity
+inflammation	inflammatory
+influence	"influenced, influences"
+inhaler	inhalers
+injection	injections
+injury	"injuries, wound"
+innovation	"innovations, innovative"
+insulation	insulator
+integrated	integrating
+intelligent	intelligence
+interaction	"interactions, interactive"
+invade	"invaders, invasion, invasive, invasively"
+invert	"inversion, inverted"
+invertebrate	invertebrates
+ion	ionizer
+ipad	vs.ipad
+isolate	"isolated, isolating, isolation"
+item	items
+join	"annealing, coupling, docking, linking, links, linked, bind, junction, binding, joining, joined, linkage"
+joint	joints
+journey	journeys
+juice	"juicer, juices"
+juvenile	"young, teenage, juveniles"
+keep	keeping
+key	keys
+kidney	renal
+kill	"killers, killing, kills, massacre, murder"
+kinetic	kinetics
+l.sativa	sativa
+l.variegatus	variegatus
+lab	microlab
+lack	"deficiency, deficits"
+language	languages
+laser	"lasering, lasers"
+leaches	leaching
+leaf	leaves
+learn	"education, educational, learning, learning., learning/memory"
+led	leds
+lemon	lemons
+level	levels
+lie	lies
+lifespan	"lifespans, lifetimes"
+light	"bioluminescence, bioluminescent, illuminated, illuminating, lighting, lights, luminescence"
+limit	"limitation, limiting, limited, limits"
+liposomes	liposomal
+liquid	liquids
+liquids	vs.liquids
+listen	"listening, hear, hearing, heard, listened"
+lives	"lives;, living, lives, lived, alive"
+location	places
+lock	locking
+low	"lower, lowered, lowering"
+lunar	"moon, moons"
+lung	lungs
+m.acuminata	"acuminata, musa"
+m.oleifera	"moringa, oleifera"
+m.smegmatis	"mycobacterium, smegmatis"
+machine	machines
+macrophage	macrophages
+magnetic	"magnetism, magnetized, magnets, magnetically"
+malaria	"malaria’s, malarial, malarias"
+male	males
+malnutrition	malnourished
+manage	"management, manager, managing"
+manual	manually
+map	mapping
+marsh	"marshes, swamp, wetland, wetlands, swamps, bog"
+mask	"masked, masks"
+match	matches
+material	"biomaterials, materials"
+math	mathematical
+mature	maturity
+maximum	maximizing
+mealworm	mealworms
+mechanism	"biomechanics, mechanical, mechanics, mechanisms"
+media	medium
+medical	"clinical,"
+drug	"vs.medication, medication, medications, therapy, treatment, medicine"
+melanogaster	melangaster
+melt	melting
+membrane	membranes
+memory	"recall, remember"
+metal	metals
+metalloproteinase	metalloproteinases
+method	"algorithm, algorithmic, algorithms, approach, approaches, methodology, methods, protocol"
+microalgae	"microalga, microalgal"
+microbe	"microbial, microbiology, microbiome, microbiota, microorganisms, microbiomes, microbials, microbes, germs, "
+migration	migratory
+mimicry	"biomimetic, biomimicry, mimics"
+mineral	"mineralization, minerals"
+miracle	miraculous
+mite	mites
+mitosis	mitotic
+mobile	"mobility, portable"
+model	"modeling, modelling, models"
+moist	"moisture, moisturized, moisturizers, hydrate, wet, humid, humidity"
+molecule	"molecular, molecules"
+monitor	monitoring
+motor	motorized
+multiple	multiplex
+muscle	muscles
+music	"musical, musics"
+mussel	mussels
+mutant	"mutants, mutation, mutation., mutations"
+mystery	mystic
+nano	"nanofibers, nanomaterials, nanoparticle, nanoparticles, nanorods, nanoscale, nanosheets, nanotech"
+nantucket	nantuckets
+national	nations
+natural	"naturally, nature, vs.natural"
+navigate	"navigation, navigational"
+nematic	nematics
+network	"networking, networks"
+neurodegeneration	neurodegenerative
+neuron	"axonal, nervous, neural, neuroanatomical, neurological, neurons, neurons_dsx, neuroprotective"
+neurotoxin	neurotoxicological
+neutralize	"neutralizer, neutralizing"
+nice	wonderful
+nitrogen	"nitrate, nitric"
+node	nodal
+nondominant	vs.nondominant
+noninvasive	noninvasively
+north	northern
+novice	beginner
+nutrient	"nutrients, nutrition, nutritional, nutritious, vs.nutrient"
+o.sanctum	sanctum
+object	objects
+observation	"observations, observer"
+ocean	"oceanic, oceans"
+ocimum	"basil, ocimum"
+oil	oils
+old	"ancient, geriatric"
+old	"paleo, ancient"
+optimal	"ideal, optimization, optimize, optimized, optimizing"
+organism	"animal, animals, critters, organisms"
+oxidant	"oxidation, oxidative, oxide, oxides, oxidants"
+oyster	oysters
+p.amarus	"amarus, phyllanthus"
+p.barbatus	barbatus
+p.indica	indica
+p.ostreatus	ostreatus
+p.polycephalum	polycephalum
+p.putida	"pseudomonas, putida"
+p.rapae	"pieris, rapae"
+p.strobus	p.strobus;
+p.vulgaris	vulgaris
+p.zeylanica	zeylanica
+package	"packaged, pack, packing, packaging"
+paint	painted
+pancreas	pancreatic
+panel	panels
+parameter	multiparameter
+parents	parental
+parkinson	"parkinson’s, parkinsons"
+particle	"particulates, particles"
+parts	"components, pieces"
+path	routes
+pathway	pathways
+patient	patients
+pattern	patterns
+pcos	withpcos
+pea	peas
+peel	peels
+pen	pens
+penetrate	penetration
+pepper	peppers
+period	periods
+permeable	permeability
+permutations	permutationally
+personal	"personalities, personality, personalized"
+pesticide	pesticides
+phagocytosis	phaygocytosis
+pharmaceutical	"pharm, pharmaceuticals, vs.pharmaceutical"
+phase	phases
+phenotype	phenotypic
+pheromone	pheromones
+phone	phones
+phosphate	"phosphates, phosphorus"
+phosphates	vs.phosphates
+photobioreactor	photobioreactors
+photosynthesis	photosynthetic
+phylogenetic	phylogeny
+physiology	"physiological, vs.physiology"
+piece	fragments
+pigment	pigments
+pill	pills
+pipetting	micropipetting
+place	location
+planaria	"flatworm, planaria, planarian, planarians, planarias"
+planets	planetary
+plans	planning
+plant	"plants, phyto, tree, trees, forest, herbs, garden, shrubs, botanical, herb, herbal, vegetation"
+plasmid	plasmidbased
+plastic	"bioplastic, bioplastics, microplastic, microplastics, nanoplastics, plastics"
+platform	platforms
+play	"player, playing"
+poland	vs.poland
+polar	"polarization, vs.polar"
+politics	"political, policy, presidential, minister, senator"
+pollinate	pollination
+pollute	"contaminants, contaminated, contamination, emission, pollutant, pollutants, polluted, pollution, pollutions, spills."
+polymer	polymers
+pond	ponds
+population	populations
+position	placement
+post	posts
+predict	"predicting, prediction, predictions, predictive, predictor"
+preference	preferences
+save	"preservation, save, saving, rescue, rescued, saves, saved, preserves, preserved, preserving, preserve"
+president	presidential
+prevent	"preventing, prevention, preventive, prevents"
+price	prices
+print	"printed, printer, printing"
+printing	bioprinting
+privacy	private
+probe	probes
+problem	problems
+process	"processed, processes, processing, workflow"
+produce	yield
+program	"programmable, programming"
+project	projection
+proof	proving
+propulsion	propelling
+prospect	bioprospecting
+prosthesis	"prosthetic, prosthetics"
+protect	"protecting, protection, protective"
+protein	proteins
+prototype	"prototypes, prototypical"
+punishment	vs.punishment
+quantity	"amount, quantification, quantifying, quantitatively, volume, volumes"
+radiant	"radiating, radiation"
+rain	rain.
+raise	raising
+random	randomness
+rare	scarcity
+rate	"rates, rating"
+ratio	ratios
+ray	"rays, ray"
+react	"reaction, reactions, reactivity"
+read	"reading, readings"
+ready	"preparedness, ready.set.go"
+real	"authentic, authenticated, authentication, authenticity"
+reality	vs.reality
+rebuilding	reconstructing
+receive	reception
+receptor	receptors
+recombinant	"recombination, recombinent"
+recyled	"recyclables, recycled, recycler, recycling"
+reduce	"attenuation, decreases, decreasing, depleting, mitigate, mitigating, mitigation, reduces, reducing, reduction"
+reef	reefs
+regenerate	"regenerating, regeneration, regenerative"
+region	bodies
+regression	"regressional, regressions"
+regular	regularity
+relating	"association, relation, relationship, relationships, relative, relativity"
+release	"discharge, releases"
+reliance	"reliability, rely"
+relief	"reliever, relievers, relieves"
+repair	"bioremediate, bioremediation, enhance, enhanced, enhancement, enhances, enhancing, improved, improves, improving, remediation, improve"
+repellent	repellents
+replace	"replacement, replacing, replaced"
+reporter	reporting
+represent	representations
+resistant	"resistance, resistive"
+resolving	resolution
+resource	resources
+respire	"breathe, respirations, respiratory, respiration, aerobic, breathing"
+reusable	reusability
+reveal	unveiling
+reverse	reversing
+ring	rings
+rise	rising
+river	rivers
+rna	"microrna, mirna, rnai, rnas, sirnas, trna"
+robot	"bot, nanorobots, robotic, robotically, robotics"
+rocket	"rocketry, rockets"
+root	rooted
+rotation	"rotational, rotations"
+rotifer	rotifers
+rough	uneven
+runner	"runners, running"
+s.cereviseae	"cerevisiae, s.cerevisiae, saccharomyces, yeast"
+s.oleracea	oleracea
+safe	"safer, safety, secure, security"
+sail	"sailing, sails"
+salicylic	vs.salicylic
+saliva	salivary
+salt	"asalting, nacl, salinity, salinitys, salt., salt.surprisingly, salting, salts"
+sand	biosand
+sanitation	sanitize
+scaffold	scaffolds
+scale	multiscale
+scar	scarification
+scary	frightful
+scent	smell
+school	schools
+science	scientific
+secret	secrets
+seed	seeds
+semantic	vs.semantic
+sense	"biosensor, detect, detected, detecting, detection, detector, sensation, sensing, sensitive, sensitivity, sensitized, sensitizers, sensor, sensors, sensory"
+separation	separating
+sequence	sequencing
+set	sets
+severe	"acute, severity"
+sex	sexual
+shake	tremors
+shape	shapes
+shark	sharks
+shell	shells
+sign	signs
+signal	"signaling, signals"
+signature	signatures
+silence	silencer
+similar	alike
+simple	simplify
+simulate	"simulant, simulating, simulation, simulations, simulated, emulate, emulation"
+size	sizing
+ski	skiing
+slow	"slowing, slows"
+small	smaller
+smoke	"smoke’s, smokes, smoking, vaping"
+snail	snails
+sneakers	vs.sneakers
+snp	snps
+social	"socialization, socially, societies"
+soil	soiled
+solar	"helio, sun"
+solid	solids
+soluble	"solubility, solutes, solutions"
+solve	address
+sound	with...sound
+source	sources
+species	multispecies
+specific	specialized
+spectrophotometer	spectrophotometeric
+speech	"voice, talk, oration, oratory, talking, say, conversation, talking, speech, spoke, spoken, speak, said"
+speed	"speeds, velocity, accelerate, acceleration, accelerating"
+spice	spices
+spill	spills
+splatter	"spatter, splat"
+sponges	sponges.
+sports	"sport, sporting, vs.sports"
+spray	sprays
+spread	spreading
+spring	springs
+stable	stability
+stack	"stacking, stackable"
+stage	staging
+stain	stains
+stairstep	stairsteps
+star	stars
+state	"states, status"
+static	stationary
+statistics	statistical
+step	stepped
+sterilization	sterilizer
+stimulate	"biostimulation, stimulating, stimulation, stimuli, stimulus"
+stock	stocks
+stop	"blocking, ceasing, inhibit, inhibiting, inhibition, inhibitor, inhibitors, inhibitory, inhibits, retardancy, stopping, stopping/, suppressant, suppression, suppressor, disrupt, disrupting, hurdle"
+store	"storage, vs.store"
+storm	"tsunamis, hurricane, tsunami, cyclone, blizzard"
+stream	streams
+stress	stressors
+strong	"reinforcement, resilience, resilient, strength, strengths, stronger, strongest"
+structure	"structural, structures"
+student	"students, vs.student"
+study	"studies, studying"
+substance	substances
+substrate	substrates
+sugar	"carbohydrates, dglucosebased, glucose, sucralose, sucrose, sugars"
+suicide	"suicidal, suicide"
+sulfate	"sulfur, sulphur"
+sunscreen	sunscreens
+surface	surfaces
+surgery	surgical
+survival	survivalist
+susceptible	susceptibility
+sustainable	sustainability
+suture	suturing
+sweet	sweeteners
+symbiont	"symbionts, symbioses, symbiosis"
+synthetic	"biosynthetic, synthetics"
+system	systems
+t.chordata	chordata
+table	tabling
+take	takes
+tall	"height, high, higher"
+target	"targeting, targets"
+tcell	tcells
+teaching	teachable
+technique	"tech, techniques, technologically, technologies, technology"
+technology	"tech., technology."
+telomere	telomeres
+temperature	"hot, temperatures, thermal"
+tensile	tension
+test	"assay, bioassay, tested, tester, testing"
+text	texting
+thaw	"deicers, deicing, thawing"
+theoretic	"theoretical, theory"
+therapy	"chemotherapy, phototherapy, remedies, teletherapy, therapeutic, treatment, treat, medicine"
+thought	"think, ideation, idea, thinks, thoughts"
+thread	yarn
+tide	"tidal, tides"
+time	"ages, times"
+tissue	tissues
+tomato	tomatoes
+tool	"app, apparatus, tools"
+touch	tactile
+toxin	"toxicology, toxicity, toxins, toxin, toxic, poison, poisoning, poisons, venom, venoms"
+trace	"traced, traces"
+track	"tracked, tracker, tracking"
+traditional	"conventional, vs.traditional"
+traffic	trafficking
+train	training
+transmission	transmissions
+trap	trapped
+travel	"transportation, traveling, travelling"
+treat	"treated, treating, treatment, treatments"
+tree	"arbuscular, trees"
+trend	trends
+triangle	triangles
+turbine	turbines
+turn	"turning, turns"
+twist	twister
+type	"types, typing"
+understand	understanding
+unique	exclusively
+universe	"universal, universes"
+usage	"usable, user, utility, utilize, utilized, utilizing"
+uv	ultraviolet
+v.cardui	vanessa
+v.fischeri	fischeri
+vaccine	vaccines
+variable	"variability, variables, variant, variation, variations, varied, varying"
+vegetable	vegetables
+vehicle	vehicles
+victim	victims
+view	"perceived, perception, perspective, viewing"
+virus	"viral, virulence"
+vision	"gaze, visibility, visual, visualization, visualize, visualizing, visually"
+vitamin	"vitamins, vitiamn"
+walks	walking
+wall	walls
+wash	washing
+waste	"biowaste, trash, wastage, wasted, wastes, wasting"
+water	"aquatic, h2o, hydro, irrigation, watering, waters"
+wave	waves
+wear	wearing
+weather	"meteorological, climate, atmospheric, barometric"
+weight	"lighter, weighted"
+white	whites
+width	wide
+wild	vs.wild
+win	"winning, wins"
+wind	"vs.wind, breeze, gale"
+wing	wings
+wire	wires
+wolbachia	wolbachias
+wood	wooden
+work	"working, workings, works"
+worm	worms
+wrestle	wrestling
+yogurt	yogurts
+youth	"adolescents, preadult, teenagers"
+zingiber	ginger
+decellular	"decellularization, decellularized"
+gel	gels
